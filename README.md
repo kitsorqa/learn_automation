@@ -1,1 +1,1 @@
-# learn Selenium by Alexey
+# Some Practice with selenium
